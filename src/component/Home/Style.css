@@ -1,0 +1,21 @@
+.title-home{
+    display: flex;
+    flex-direction: column;
+    margin-top: 180PX;
+}
+
+.title-h1{
+    text-align: center;
+}
+
+.title-h4{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.img-pastel{
+    display: block;
+    margin-top: 20px;
+    margin: auto;
+    width: 200px;
+}

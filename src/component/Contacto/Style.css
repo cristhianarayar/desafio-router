@@ -1,0 +1,31 @@
+.title-p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.lbl-correo{
+    margin-top: 20px;
+    margin-left: 1050px;
+    text-align: center;
+}
+
+.inp-correo{
+    width: 900px;
+    margin-left: 600px;
+}
+
+.lbl-desc{
+    margin-top: 20px;
+    margin-left: 1020px;
+}
+
+.txt-area{
+    width: 900px;
+    margin-left: 600px;
+}
+
+.btn{
+    margin-top: 20px;
+    margin-left: 1040px;
+}
